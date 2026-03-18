@@ -6,7 +6,7 @@
 - 🔭 Building AI-powered web apps with React, Flask & Google Gemini
 - 🌱 Currently exploring advanced ML and cloud architecture
 - 💼 Open to Full-Stack / ML Engineering internships
-- 📫 Reach me: [LinkedIn](your-link) | [Portfolio](your-link)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/janhavi-chaturvedi-a5590435a/) | [Portfolio](https://janhavi-chaturvedi-portfolio.netlify.app/)
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
