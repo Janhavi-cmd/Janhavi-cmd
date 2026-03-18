@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Janhavi Chaturvedi 👋
 
-<!--
-**Janhavi-cmd/Janhavi-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA 2026 | Full-Stack Developer | AI/ML Enthusiast | Mumbai
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Building AI-powered web apps with React, Flask & Google Gemini
+- 🌱 Currently exploring advanced ML and cloud architecture
+- 💼 Open to Full-Stack / ML Engineering internships
+- 📫 Reach me: [LinkedIn](your-link) | [Portfolio](your-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+## 🌟 Featured Projects
+| Project | Description | Live |
+|---|---|---|
+| 🧠 AI LifeCard | AI life dashboard with ML career & finance analysis | [Live](https://ai-lifecard.vercel.app/) |
+| 📰 NewsWave | Multilingual AI news hub with voice search | [Live](https://newswave-app-six.vercel.app/) |
+| 💰 SpendSmart | Expense tracker with Gemini AI insights | [Live](https://expense-tracker-fowr.onrender.com) |
+
+## 📊 GitHub Stats
+![Janhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janhavi-cmd&show_icons=true&theme=tokyonight)
